@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bohdan Korniienko
 
-<!--
-**Bohdan-code-git/Bohdan-code-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack .NET / Angular Engineer · AI Agents & Integrations**
 
-Here are some ideas to get you started:
+I take product requirements through implementation and delivery—across backend, frontend, integrations and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Creatio, I led the Angular 14 → 20 migration. When older Android in-app browsers still failed, I traced the issue to the IIS test environment and rebuilt it with Linux, Docker and Nginx. I also handled requirements, technical breakdown, priorities and delivery coordination.
+
+**Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core  
+**Frontend:** Angular, TypeScript, React, Blazor  
+**Data & infrastructure:** PostgreSQL, MSSQL, MongoDB, Docker, Linux, Nginx  
+**AI & research:** AI agents, practical AI integrations, computer vision, Gymnasium
+
