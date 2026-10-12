@@ -9,12 +9,12 @@ One year of commercial work at Creatio. Open to remote work and relocation.
 
 | Project | What it does | Under the hood |
 | --- | --- | --- |
-| **Switchboard** · [live, with a sample account](https://switchboard.bogkor906.workers.dev/?sample=1) · [code](https://github.com/Bohdan-code-git/switchboard) | Connect Google, GitHub and Discord; see which OAuth grants still work | ASP.NET Core 8 backend-for-frontend, Authorization Code + PKCE, CSRF, encrypted workspaces, Angular 20 · 78 xUnit + 21 Angular tests |
+| **Switchboard** · [live](https://switchboard.bogkor906.workers.dev/) · [code](https://github.com/Bohdan-code-git/switchboard) | Connect Google, GitHub and Discord; see which OAuth grants still work | ASP.NET Core 8 backend-for-frontend, Authorization Code + PKCE, CSRF, encrypted workspaces, Angular 20 · 78 xUnit + 21 Angular tests |
 | **Marketing Administration** · [live admin](https://marketing-admin-portfolio.bogkor906.workers.dev/admin) | Lead intake → shared inbox → campaign report → CSV for the CRM | Angular 20, Cloudflare Workers + D1, ASP.NET Core 8 API with Creatio CRM over OData · 197 unit + 42 Playwright tests |
 
 ## Hackathons
 
-- **AI HOUSE Camp 2026**: a CPU-only military insignia classifier for the War Archive (DINOv2, EmbeddingGemma, OCR), macro F1 0.39 over 168 classes
+- **AI HOUSE Camp 2026**: a CPU-only military insignia classifier for the War Archive (DINOv2, EmbeddingGemma, OCR)
 - **Industrial Automation & AI Challenge 2026**, Kyiv
 
 ## Stack
