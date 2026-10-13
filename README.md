@@ -14,7 +14,7 @@ One year of commercial work at Creatio. Open to remote work and relocation.
 
 ## Hackathons
 
-- **AI HOUSE Camp 2026**: a CPU-only military insignia classifier for the War Archive (DINOv2, EmbeddingGemma, OCR)
+- **AI HOUSE Camp 2026**, 4th place: anonymisation of Ukrainian personal data (NER + LLM) and a CPU-only military insignia classifier for the War Archive (DINOv2, EmbeddingGemma, OCR)
 - **Industrial Automation & AI Challenge 2026**, Kyiv
 
 ## Stack
